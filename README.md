@@ -77,6 +77,7 @@ const samuel = {
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
+| [**DevFlow (Kanban Engine)**](https://github.com/Samueltar/devflow-kanban) | High-performance Kanban project board with native HTML5 drag-and-drop, live search, priority filtering, and modular REST API. | `Node.js` `Express` `JavaScript` `CSS3` | 🟢 Active |
 | [**back-crud (TaskFlow API)**](https://github.com/Samueltar/back-crud) | Robust Task Management REST API with persistent storage, MVC architecture, full CRUD endpoints, and interactive frontend. | `Node.js` `Express` `JavaScript` | 🟢 Active |
 | [**sami-coffee-shop**](https://github.com/Samueltar/sami-coffee-shop) | Modern cross-platform mobile coffee shop application with sleek UI/UX and smooth order flows. | `React Native` `TypeScript` | 🟢 Active |
 | [**ui-4-school-rating-and-reviewing**](https://github.com/Samueltar/ui-4-school-rating-and-reviewing) | Intuitive school rating and reviewing user interface designed for student community engagement. | `JavaScript` `HTML5` `CSS3` | 🟢 Completed |
